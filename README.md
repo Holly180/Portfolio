@@ -2,7 +2,7 @@
 
 
 
-[Predict Which Clients will Cancel Subscription to help Account Managers Reduce Churn using Survival Analysis] (./Predict Which Clients will Cancel Subscription to help Account Managers Reduce Churn using Survival Analysis.ipynb)
+[Predict Which Clients will Cancel Subscription to help Account Managers Reduce Churn using Survival Analysis] (./'Predict Which Clients will Cancel Subscription to help Account Managers Reduce Churn using Survival Analysis.ipynb')
 
 In this project I use survival analysis, the aim of this analysis is to measure the 'time to event’ by estimating the time to which the observed will go through an event we are interested in. The event of interest here being when a customer will cancel their subscription. 
 
