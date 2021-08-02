@@ -32,7 +32,7 @@ Analysing pageviews and most popular content to make recommendations on where we
 
 May, 2020
 
-[Data Cleaning and Visualisation to Give Insights Into Cancelling Clients] (./Data Cleaning and Visualisation to Give Insights Into Cancelling Clients.iypnb)
+[Data Cleaning and Visualisation to Give Insights Into Cancelling Clients] (https://github.com/Holly180/Portfolio/blob/main/Data%20Cleaning%20and%20Visualisation%20to%20Give%20Insights%20Into%20Cancelling%20Clients.ipynb)
 
 Exploring and giving insights into our customer usage data. 
 
