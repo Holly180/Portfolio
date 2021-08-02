@@ -1,0 +1,1153 @@
+﻿ID,Client Status,status,Client,Client Type, Amount ,Year of current deal,Time of Cancellation (YES = START),sector,Cancelation Reason
+495,Mid,Inactive,129,Three,4950,1,,Financials,Switched to competitor
+522,high,Active,243,Three,5030,4,,Financials,
+1930,Mid,Active,244,Two,5500,1,,General,
+1256,Mid,Active,252,Three,4950,2,,Financials,
+2324,Mid,Active,260,Three,6050,1,,Financials,
+2347,Mid,Active,304,Three,7500,1,,Financials,
+312,Mid,Active,337,Three,5750,1,,Consumer Finance,
+312,Mid,Active,338,Three,5750,1,,Consumer Finance,
+1613,Mid,Active,403,Three,4950,2,,Financials,
+2523,Mid,Active,407,Three,6500,1,,Financials,
+2503,Mid,Active,604,Three,6000,1,,Financials,
+73,High,Active,625,Three,1845,1,,Financials,
+1117,Mid,Active,651,Three,4470,2,,Financials,
+787,Mid,Active,670,Three,4950,3,,Financials,
+2640,Mid,Active,794,Three,6500,1,,Financials,
+610,Mid,Active,864,Three,5100,4,,Financials,
+97,Low,Active,879,Three,4500,5,,Financials,
+733,Mid,Active,1018,Two,4950,4,,Financials,
+1504,Low,Active,381,One,858,2,,Freelancer,
+1614,Mid,Active,29,One,1236,2,,Freelancer,
+822,Mid,Inactive,55,Three,4950,1,,Retailers,Switched to competitor
+1226,Mid,Inactive,123,Two,4950,1,,General,No longer required
+853,Mid,Inactive,292,Three,3950,1,,Retailers,Insufficient Funds
+1322,Mid,Inactive,323,Two,4500,1,Mid-term,General,Switched to competitor
+434,Mid,Active,35,One,1500,4,,Freelancer,
+1092,Mid,Inactive,490,Two,2000,1,,General,No longer required
+916,Mid,Inactive,610,Three,4500,1,,Consumer Products,Insufficient Funds
+1078,Low,Inactive,656,Two,4950,1,,Media,Switched to competitor
+1148,Low,Inactive,697,Three,4950,2,Mid-term,Financials,No longer required
+1032,Mid,Inactive,781,Three,2000,1,,Travel & Leisure,No longer required
+1313,Mid,Inactive,785,Three,4000,1,Mid-term,Travel & Leisure,Insufficient Funds
+887,Mid,Inactive,830,Two,4950,1,,General,Switched to competitor
+1461,High,Active,627,One,1500,2,,Freelancer,
+1264,Mid,Inactive,952,Two,4950,1,Mid-term,General,We terminated contract
+1185,Mid,Inactive,953,Two,4950,1,,General,Switched to competitor
+2193,Mid,Inactive,983,Three,4950,1,,Financials,Switched to competitor
+1040,Mid,Inactive,1027,Three,4950,1,,Travel & Leisure,No longer required
+913,Mid,Inactive,1031,Three,3500,1,Mid-term,Property,No longer required
+823,Mid,Inactive,1137,Two,4950,1,,General,Switched to competitor
+1684,Mid,Active,27,Three,6500,1,,Financials,
+2382,Mid,Active,62,Three,5046,1,,Financials,
+2583,Mid,Active,89,Two,5000,1,,Financials,
+2539,Mid,Active,708,Three,6500,1,,Financials,
+219,Mid,Inactive,54,Two,375,1,Mid-term,General,Switched to competitor
+228,,Inactive,91,Three,4000,2,Mid-term,Financials,No longer required
+1459,Mid,Inactive,399,Three,3000,1,,Financials,No longer required
+1070,Mid,Inactive,489,Three,4950,1,Mid-term,Financials,No longer required
+111,,Inactive,550,Three,4500,2,,Financials,No longer required
+1842,Low,Inactive,606,Three,1000,1,,Financials,No longer required
+31,Mid,Inactive,622,Three,4000,1,Yes,Financials,Switched to competitor
+560,Mid,Inactive,768,Three,4950,1,,Support Services,No longer required
+598,Mid,Inactive,904,Two,4950,1,Mid-term,General,Switched to competitor
+782,Low,Inactive,1093,Three,3750,1,,Education,Switched to competitor
+659,High,Active,1,Two,4000,3,,General,
+2273,High,Active,2,Three,5000,1,,Technology,
+2564,Low,Active,3,Two,4500,1,,Media,
+297,Mid,Active,5,Two,4500,3,,Travel & Leisure,
+1365,High,Active,725,One,1500,1,,Freelancer,
+1540,High,Inactive,16,Two,4000,1,Yes,General,No longer required
+83,High,Active,33,Three,4500,6,,Financials,
+621,Mid,Inactive,48,One,1500,1,,Freelancer,No longer required
+181,Mid,Active,42,Three,4675,5,,Financials,
+2281,High,Active,49,Two,5305,1,,Travel & Leisure,
+1084,High,Active,51,Two,4750,2,,General,
+653,Low,Inactive,522,One,1500,2,,Freelancer,No longer required
+247,Mid,Active,66,Three,4500,5,,Financials,
+2032,High,Active,74,Three,4950,2,,Consumer Finance,
+1361,High,Active,77,Three,4950,2,,Media,
+306,Mid,Active,78,Three,4950,3,,Insurance,
+912,High,Active,80,Two,4750,3,,Healthcare,
+1475,High,Active,81,Two,4950,1,,General,
+773,Low,Active,82,Two,4950,3,,Travel & Leisure,
+32,High,Active,85,Three,4950,3,,Financials,
+162,Mid,Active,88,Three,4500,5,,Property,
+1209,Mid,Active,93,Three,4000,3,,Healthcare,
+604,Low,Inactive,528,One,1500,3,Mid-term,Freelancer,Insufficient Funds
+313,Mid,Inactive,968,One,1500,1,,Freelancer,No longer required
+152,High,Active,105,Two,4750,4,,Financials,
+828,High,Active,108,Three,4950,2,,Travel & Leisure,
+665,Mid,Inactive,639,One,1500,1,Mid-term,Freelancer,No longer required
+1552,High,Active,113,Three,4950,1,,Consumer Products,
+1642,high,Active,116,Three,4950,1,,Charity,
+82,high,Active,119,Three,5253,4,,Financials,
+504,high,Active,126,Two,4000,3,,Financials,
+584,Mid,Inactive,128,Two,4500,1,Yes,Property,Switched to competitor
+1853,high,Inactive,139,Two,4950,1,Yes,General,Switched to competitor
+1421,Mid,Inactive,1149,One,1500,1,,Freelancer,No longer required
+474,Mid,Active,143,Three,4750,4,,Financials,
+2315,high,Active,159,Two,2950,1,,Property,
+1223,Mid,Active,165,Two,4120,3,,General,
+2343,Mid,Active,166,Two,13645,1,,General,
+1200,Mid,Active,171,Three,4950,2,,Property,
+376,Mid,Active,258,One,1591,5,,Freelancer,
+2014,high,Active,179,Three,4950,2,,Education,
+70,Mid,Inactive,605,One,1648,3,,Freelancer,No longer required
+663,high,Inactive,184,Two,4000,1,Yes,Financials,Switched to competitor
+589,high,Active,196,Three,4950,3,,Financials,
+769,Mid,Active,198,Two,4950,1,,General,
+2228,high,Active,112,One,1700,1,,Freelancer,
+94,Mid,Active,211,Two,4950,3,,Financials,
+110,Mid,Active,213,Three,5570,5,,Government Bodies,
+159,high,Active,219,Three,4500,5,,Financials,
+1161,Mid,Inactive,557,One,1700,2,Mid-term,Freelancer,No longer required
+2321,High,Active,229,Two,5000,1,,Technology,
+218,Mid,Active,230,Three,4950,3,,Property,
+140,High,Inactive,561,One,1800,2,Mid-term,Freelancer,Switched to competitor
+2300,High,Active,245,Three,3900,1,,Charity,
+517,Mid,Active,248,Three,4950,1,,Property,
+1891,High,Active,264,Two,4650,1,,Travel & Leisure,
+647,Low,Inactive,266,Three,4950,1,,Travel & Leisure,Insufficient Funds
+1414,High,Active,285,Three,3000,2,,Financials,
+1812,High,Active,289,Three,2000,1,,General,
+269,High,Active,290,Three,5785,5,,Financials,
+1985,High,Active,299,Two,4950,1,,General,
+2122,High,Active,301,Three,4950,1,,Charity,
+2451,High,Active,302,Two,3000,1,,General,
+1503,Mid,Active,305,Three,4200,1,,Property,
+2424,High,Active,306,Two,4725,1,,General,
+2282,High,Active,312,Two,4750,1,,General,
+753,Mid,Inactive,321,Two,4950,2,,General,Switched to competitor
+2462,Mid,Active,322,Three,4000,1,,Travel & Leisure,
+695,High,Active,324,Two,4000,3,,Financials,
+81,Mid,Active,325,Two,4500,5,,Financials,
+2290,High,Active,326,Two,4950,1,,General,
+2408,Mid,Active,1003,One,1800,1,,Freelancer,
+1273,Mid,Inactive,546,One,1800,1,,Freelancer,No longer required
+1419,Mid,Active,63,One,1850,2,,Freelancer,
+724,Mid,Active,344,Two,4375,2,,General,
+735,High,Active,358,Two,4950,3,,General,
+1488,High,Active,359,Two,4000,1,,General,
+1291,Mid,Active,362,Two,4000,2,,General,
+2470,High,Active,366,Three,4950,1,,Property,
+1499,High,Active,370,Three,4950,2,,Government Bodies,
+1065,High,Active,379,Two,5098,2,,General,
+1466,High,Active,385,Two,4950,2,,General,
+1165,Mid,Inactive,386,Two,3200,2,,General,Insufficient Funds
+373,High,Active,389,Three,9950,5,,Financials,
+1029,High,Active,394,Two,4500,2,,Financials,
+1998,Mid,Inactive,629,One,1880,1,,Freelancer,Switched to competitor
+968,Mid,Active,412,Three,5225,1,,Travel & Leisure,
+127,High,Active,414,Three,4500,5,,Financials,
+2684,Mid,Active,920,One,1900,1,,Freelancer,
+95,Mid,Active,424,Two,6130,6,,Financials,
+351,High,Active,432,Two,5100,5,,General,
+49,High,Active,434,Two,4500,3,,General,
+2147,Mid,Active,1044,One,2000,1,,Freelancer,
+506,High,Active,441,Three,4950,1,,Media,
+454,High,Active,446,Two,4950,4,,Financials,
+2026,High,Active,454,Two,2250,1,,General,
+96,High,Active,455,Three,4950,5,,Financials,
+79,High,Active,461,Three,5575,6,,Financials,
+1910,High,Active,462,Two,4950,1,,Property,
+208,Mid,Active,464,Two,4500,5,,Travel & Leisure,
+1027,Mid,Active,469,Two,4950,4,,General,
+716,High,Active,471,Three,4950,2,,Technology,
+2654,Mid,Active,53,One,2000,1,,Freelancer,
+1041,Mid,Active,481,Three,4950,3,,Industry,
+869,Mid,Active,482,Three,4750,3,,Charity,
+1848,Mid,Active,495,Two,5500,1,,Property,
+187,High,Active,499,Two,4500,4,,General,
+1326,Low,Active,507,Two,4950,2,,Media,
+2580,Mid,Active,514,Three,2000,1,,Charity,
+857,Mid,Active,516,Three,4000,2,,Media,
+1372,Low,Inactive,517,Two,4950,1,Yes,Financials,
+1577,High,Active,533,Two,5100,2,,Travel & Leisure,
+960,Mid,Active,95,One,2000,3,,Freelancer,
+2652,Mid,Active,98,One,2000,1,,Freelancer,
+1861,High,Active,548,Three,4950,2,,Financials,
+703,High,Inactive,549,Two,4562,3,,Support Services,No longer required
+415,Mid,Active,552,Three,4750,4,,Financials,
+360,High,Active,555,Two,4000,5,,Financials,
+515,High,Active,556,Three,6500,1,,Property,
+243,High,Active,563,Two,4250,2,,Financials,
+1490,Mid,Inactive,569,Two,10500,1,Yes,General,Switched to competitor
+1490,Mid,Inactive,569,Two,10500,1,Yes,General,Switched to competitor
+1904,High,Active,571,Three,4950,2,,Property,
+217,Mid,Active,140,One,2000,4,,Freelancer,
+47,Mid,Active,585,Three,4750,4,,Financials,
+980,High,Active,593,Two,4950,1,,Financials,
+308,Low,Inactive,594,Three,4500,4,,Financials,No longer required
+2271,High,Active,595,Three,4950,1,,Education,
+222,Mid,Active,598,Three,4500,5,,Government Bodies,
+117,High,Active,603,Three,4500,5,,Financials,
+1350,Mid,Active,607,Three,4950,2,,Education,
+1560,Low,Inactive,613,Three,4950,1,,Technology,Insufficient Funds
+1725,Mid,Active,178,One,2000,2,,Freelancer,
+849,High,Active,636,Three,4950,1,,Retailers,
+225,Mid,Active,181,One,2000,2,,Freelancer,
+385,Mid,Active,645,Two,4500,4,,Financials,
+812,High,Active,659,Two,4950,3,,Media,
+69,High,Active,664,Three,4500,5,,Financials,
+268,Mid,Active,666,Three,4895,4,,Financials,
+2027,High,Active,667,Two,3000,1,,General,
+1236,Mid,Active,679,Two,3500,2,,General,
+99,High,Active,684,Three,4500,5,,Financials,
+141,Low,Active,686,Three,4000,3,,Financials,
+154,Mid,Active,689,Two,4500,5,,Financials,
+897,Low,Inactive,692,Three,3500,2,,Healthcare,No longer required
+357,Mid,Active,698,Two,4950,4,,Financials,
+1689,High,Inactive,699,Two,3750,1,,General,No longer required
+895,High,Active,705,Three,4500,2,,Industry,
+863,High,Active,710,Three,4150,2,,Charity,
+445,Mid,Active,714,Three,4950,3,,Consumer Products,
+1791,High,Active,199,One,2000,1,,Freelancer,
+543,Mid,Active,728,Three,4950,4,,Financials,
+2635,Mid,Active,735,Two,3950,1,,Consumer Products,
+1837,High,Active,737,Three,5000,1,,Telecoms,
+1246,High,Active,743,Three,4950,2,,Retailers,
+180,High,Active,751,Three,4500,5,,Financials,
+1954,High,Inactive,220,One,2000,1,,Freelancer,No longer required
+2399,High,Inactive,235,One,2000,1,Mid-term,Freelancer,Data Quality
+2238,Mid,Active,767,Three,4500,1,,Property,
+654,Mid,Active,769,Three,4750,4,,Media,
+595,Mid,Active,771,Three,4950,4,,Financials,
+1374,High,Active,774,Two,4000,2,,Consumer Products,
+1846,High,Active,779,Two,4950,1,,General,
+1947,High,Active,782,Two,3000,2,,General,
+2116,High,Active,327,One,2000,1,,Freelancer,
+2447,Mid,Active,788,Three,5000,1,,Retailers,
+2460,Mid,Active,333,One,2000,1,,Freelancer,
+2125,High,Active,795,Two,5500,1,,General,
+333,High,Active,800,Two,4500,5,,Financials,
+1637,High,Active,803,Two,4950,2,,Travel & Leisure,
+1451,Low,Active,335,One,2000,2,,Freelancer,
+888,High,Active,812,Two,4750,3,,Travel & Leisure,
+1591,Mid,Inactive,825,Three,4200,1,,Support Services,Insufficient Funds
+762,Mid,Active,828,Two,4000,3,,Support Services,
+2338,High,Active,420,One,2000,1,,Freelancer,
+1617,High,Inactive,836,Two,4250,1,,General,Data Quality
+1107,Mid,Inactive,838,Two,7425,2,,Media,Data quality
+672,Low,Active,841,Three,5100,2,,Property,
+1530,Mid,Active,842,Two,3000,1,,General,
+582,Mid,Active,845,Three,4950,4,,Government Bodies,
+719,High,Active,851,Three,4500,1,,Property,
+2567,Mid,Active,474,One,2000,1,,Freelancer,
+2237,high,Active,873,Three,4950,1,,Charity,
+440,high,Active,884,Three,4500,1,,Charity,
+2455,Mid,Active,886,Two,5000,1,,General,
+1676,Mid,Active,890,Two,5500,1,,General,
+2198,high,Active,896,Three,4950,1,,Retailers,
+807,high,Active,897,Two,4950,1,,General,
+779,high,Active,899,Three,4000,3,,Financials,
+334,High,Active,902,Three,4950,3,,Support Services,
+975,Mid,Active,907,Three,4950,3,,Financials,
+1059,Mid,Active,535,One,2000,1,,Freelancer,
+384,Mid,Active,911,Three,4750,4,,Financials,
+212,Mid,Active,914,Three,4500,5,,Financials,
+2566,Mid,Active,915,Two,3000,1,,General,
+356,High,Active,917,Three,5700,5,,Financials,
+1594,High,Active,543,One,2000,2,,Freelancer,
+503,High,Active,925,Two,14880,3,,Financials,
+1062,Mid,Active,928,Three,4950,3,,Support Services,
+1053,Mid,Active,935,Two,4000,2,,Travel & Leisure,
+2357,High,Active,936,Two,4950,1,,General,
+1014,Mid,Active,937,Two,4950,3,,General,
+2593,Mid,Active,939,Three,4750,1,,Charity,
+1916,High,Active,941,Three,4950,1,,Education,
+1385,Mid,Active,946,Three,4950,2,,Financials,
+150,High,Active,947,Three,4750,4,,Financials,
+1928,Mid,Active,951,Two,5000,1,,Consumer Products,
+1243,High,Active,955,Two,4950,2,,Travel & Leisure,
+459,Mid,Active,957,Two,6000,1,,General,
+2524,Mid,Active,958,Three,3000,1,,Education,
+2472,High,Inactive,644,One,2000,1,,Freelancer,
+387,High,Active,969,Two,4750,4,,Financials,
+103,High,Active,972,Three,4950,2,,Financials,
+948,High,Active,976,Three,7600,3,,Industry,
+2515,Mid,Active,754,One,2000,1,,Freelancer,
+1066,High,Active,992,Two,4950,2,,Travel & Leisure,
+1806,Mid,Active,994,Three,4000,2,,Energy,
+1956,Mid,Active,998,Three,4950,1,,Charity,
+2200,High,Active,1001,Two,6000,1,,General,
+1221,High,Active,1004,Three,4950,2,,Charity,
+2010,High,Active,763,One,2000,2,,Freelancer,
+2169,High,Active,1014,Two,4950,1,,Travel & Leisure,
+1786,High,Active,1020,Two,5000,1,,Travel & Leisure,
+2167,Mid,Active,1028,Three,3000,1,,Charity,
+292,High,Active,1037,Three,4500,4,,Support Services,
+1721,High,Active,1038,Three,4950,2,,Financials,
+1881,High,Active,1049,Two,4500,1,,General,
+607,High,Active,1050,Three,5255,4,,Financials,
+1064,High,Active,1052,Three,4950,2,,Consumer Finance,
+669,Mid,Active,1056,Three,4950,3,,Consumer Finance,
+276,Mid,Active,1063,Three,3500,1,,Financials,
+161,Mid,Active,1065,Three,4950,3,,Financials,
+448,High,Active,1067,Three,3000,1,,Charity,
+2330,High,Active,1068,Two,4500,1,,General,
+674,Mid,Active,1069,Three,4950,3,,Financials,
+2395,High,Active,808,One,2000,1,,Freelancer,
+2615,Mid,Active,835,One,2000,1,,Freelancer,
+2304,High,Active,1080,Three,4500,1,,Government Bodies,
+880,High,Active,1082,Three,4950,3,,Education,
+772,High,Active,1088,Three,4250,1,,Education,
+1371,Mid,Active,1089,Three,4500,2,,Education,
+1159,Mid,Active,1091,Three,5500,1,,Education,
+40,Mid,Active,1101,Two,8453,3,,General,
+1105,High,Active,852,One,2000,3,,Freelancer,
+1128,High,Inactive,1104,Two,3950,1,,General,Switched to competitor
+1279,Mid,Active,1107,Two,4500,2,,General,
+1638,Mid,Active,1111,Three,4950,2,,Travel & Leisure,
+1493,High,Active,1114,Two,4750,1,,General,
+1389,High,Active,1116,Two,4500,2,,General,
+1458,Mid,Active,1122,Two,4750,2,,Travel & Leisure,
+2643,Mid,Active,1123,Two,5500,1,,General,
+1696,Mid,Active,1124,Two,5500,1,,Travel & Leisure,
+411,Mid,Active,1128,Three,4950,4,,Financials,
+836,Mid,Active,1133,Three,5000,1,,Retailers,
+2402,High,Active,910,One,2000,1,,Freelancer,
+662,Mid,Active,1141,Three,5099,3,,Financials,
+2461,Mid,Active,1144,Three,5000,1,,Property,
+1302,Mid,Inactive,34,Three,4500,1,,Charity,Insufficient Funds
+601,Mid,Inactive,97,Three,5000,1,,Charity,Switched to competitor
+1162,Mid,Inactive,150,Three,4950,1,,Education,Low engagement
+625,Mid,Inactive,209,Three,5100,1,Mid-term,Healthcare,Switched to competitor
+998,Mid,Inactive,234,Three,5000,1,,Education,Switched to competitor
+938,Mid,Inactive,580,Three,4000,1,,Charity,No longer required
+947,Mid,Inactive,713,Three,4000,1,Mid-term,Charity,No longer required
+1653,Mid,Inactive,775,Three,5500,1,,Travel & Leisure,Data Quality
+683,Low,Inactive,797,Three,4750,1,,Property,No longer required
+540,Low,Inactive,892,Two,4973,1,,General,Switched to competitor
+1305,Low,Inactive,922,Three,3500,1,,Charity,No longer required
+1147,Mid,Inactive,960,Three,4950,1,,Technology,Switched to competitor
+928,High,Inactive,1060,Three,4000,2,,Charity,Insufficient Funds
+1054,Mid,Inactive,6,Two,4950,1,,General,Switched to competitor
+575,Mid,Inactive,103,Three,4950,1,,Support Services,No longer required
+172,Mid,Inactive,202,Three,2300,1,,Financials,No longer required
+435,Mid,Inactive,303,Three,4500,1,,Property,Switched to competitor
+403,Mid,Inactive,401,Three,4750,1,,Support Services,No longer required
+395,Mid,Inactive,592,Three,4750,1,,Financials,No longer required
+288,,Inactive,626,Three,3000,2,,Transport,No longer required
+332,,Inactive,700,Three,4500,2,Mid-term,Financials,Switched to competitor
+528,Mid,Inactive,712,Three,4950,1,,Financials,No longer required
+622,Mid,Inactive,742,Three,4950,1,,Energy,Switched to competitor
+160,Mid,Inactive,744,Three,4000,1,,Financials,Switched to competitor
+596,,Inactive,752,Two,4950,2,,Support Services,No longer required
+465,Mid,Inactive,909,Three,4000,1,,Financials,No longer required
+300,,Inactive,948,Three,3500,3,,Financials,No longer required
+441,Mid,Inactive,1053,Three,4750,1,,Insurance,No longer required
+586,Mid,Inactive,1066,Three,4950,1,,Financials,Switched to competitor
+38,Mid,Active,4,Three,5100,3,,Financials,
+1603,High,Active,9,Three,3000,2,,Education,
+2063,High,Active,15,Three,5000,1,,Consumer Finance,
+989,Mid,Active,18,Three,4950,2,,Industry,
+286,High,Inactive,21,Two,4800,1,Yes,Government Bodies,No longer required
+59,High,Active,24,Three,4500,4,,Insurance,
+1429,Mid,Active,25,Three,4950,1,,Financials,
+1450,High,Active,961,One,2000,1,,Freelancer,
+555,High,Active,36,Three,5255,3,,Financials,
+1267,High,Active,37,Three,3000,1,,Financials,
+2263,High,Active,38,Three,5800,1,,Insurance,
+2426,High,Active,39,Three,2550,1,,Insurance,
+483,High,Active,40,Two,5255,4,,Financials,
+961,Mid,Inactive,982,One,2000,2,Mid-term,Freelancer,No longer required
+2246,High,Active,50,Two,2500,1,,Financials,
+1339,High,Active,57,Three,4950,1,,Industry,
+2656,Mid,Inactive,1013,One,2000,1,Mid-term,Freelancer,No longer required
+492,High,Active,67,Two,4750,1,,General,
+98,High,Active,68,Three,3000,2,,Financials,
+2173,High,Active,69,Three,4950,1,,Financials,
+275,High,Active,70,Three,4950,2,,Financials,
+977,High,Active,71,Three,4500,3,,Financials,
+635,High,Active,72,Three,6500,1,,Healthcare,
+1043,Mid,Active,76,Two,5100,3,,Media,
+239,Mid,Active,79,Three,6000,1,,Financials,
+420,High,Active,84,Three,5500,1,,Financials,
+2093,High,Active,86,Three,4750,1,,Financials,
+27,High,Active,90,Three,6650,4,,Financials,
+331,High,Active,92,Two,6500,1,,General,
+209,Low,Active,94,Three,10645,3,,Financials,
+1962,High,Active,106,Two,3000,1,,General,
+741,High,Active,114,Three,4950,3,,Mining,
+2477,High,Inactive,122,Three,5500,1,,Travel & Leisure,No longer required
+116,High,Active,127,Three,7250,3,,Financials,
+1197,Mid,Active,154,Three,4835,2,,Consumer Products,
+233,High,Active,155,Two,10000,4,,General,
+289,High,Active,156,Three,4950,4,,Financials,
+747,High,Active,157,Three,6120,3,,Telecoms,
+1811,Mid,Active,160,Three,1000,2,,Financials,
+1327,High,Active,161,Three,4950,2,,Financials,
+1058,Mid,Active,163,Three,4950,3,,Retailers,
+155,High,Active,170,Two,5305,4,,Financials,
+328,High,Active,172,Two,6435,3,,Financials,
+2303,High,Active,174,Three,4500,1,,Government Bodies,
+193,High,Active,176,Three,3400,4,,Insurance,
+2029,High,Inactive,1071,One,2000,1,Mid-term,Freelancer,No longer required
+2391,High,Active,182,Two,4300,1,,Travel & Leisure,
+168,Mid,Inactive,1076,One,2000,1,Mid-term,Freelancer,No longer required
+608,high,Inactive,192,Three,4150,2,,Charity,Switched to competitor
+927,high,Active,193,Three,7500,2,,Utilities,
+1427,Mid,Active,201,Three,4950,2,,Industry,
+121,high,Active,205,Two,6435,2,,General,
+650,Mid,Inactive,206,Three,4950,1,Yes,Industry,No longer required
+1749,High,Active,217,Three,4950,2,,Financials,
+24,Mid,Active,218,Three,5940,2,,Financials,
+72,High,Active,221,Three,5253,4,,Financials,
+169,High,Active,225,Two,4500,3,,General,
+45,High,Active,228,Two,6435,3,,General,
+2681,High,Active,232,Two,5500,1,,General,
+2323,High,Active,236,Three,3950,1,,Industry,
+2678,Mid,Active,1102,One,2000,1,,Freelancer,
+973,High,Active,239,Two,4750,2,,Education,
+2537,High,Active,241,Three,4500,1,,Consumer Finance,
+623,Mid,Active,242,Three,4950,4,,Support Services,
+318,High,Active,250,Three,4500,5,,Financials,
+301,High,Active,253,Three,5250,5,,Financials,
+1168,High,Active,259,Three,5100,1,,Financials,
+84,High,Active,270,Three,5000,2,,Financials,
+287,High,Active,272,Two,4500,5,,Government Bodies,
+726,Low,Inactive,273,Three,5000,2,,Media,Switched to competitor
+157,High,Active,279,Three,4500,4,,Financials,
+2398,Mid,Active,280,Three,5300,1,,Technology,
+920,High,Active,282,Three,3125,1,,Financials,
+535,High,Active,283,Three,5989,4,,Consumer Products,
+1349,High,Active,297,Three,5100,2,,Industry,
+922,High,Inactive,298,Three,4702,1,Yes,Retailers,Insufficient Funds
+587,Low,Inactive,307,Three,5305,3,,Support Services,No longer required
+50,Mid,Active,308,Three,4690,5,,Utilities,
+122,Mid,Active,314,Three,4950,5,,Financials,
+876,High,Active,316,Three,4245,3,,Government Bodies,
+1855,High,Active,318,Two,4600,1,,Media,
+1761,High,Active,320,Three,5000,2,,Utilities,
+692,Low,Inactive,329,Two,2500,3,,General,No longer required
+594,Low,Inactive,331,Three,5100,1,,Government Bodies,No longer required
+325,High,Active,334,Three,5253,4,,Financials,
+1038,Mid,Active,339,Three,4950,3,,Energy,
+133,High,Active,340,Three,8340,5,,Financials,
+711,High,Active,180,One,2000,3,,Freelancer,
+685,High,Active,345,Three,3605,2,,Technology,
+957,Mid,Active,347,Three,4950,3,,Financials,
+186,High,Active,351,Three,5040,5,,Financials,
+918,Mid,Active,354,Two,4245,3,,Financials,
+1975,Mid,Active,238,One,2000,2,,Freelancer,
+532,Low,Active,361,Three,5100,4,,Financials,
+35,High,Active,363,Three,4500,5,,Financials,
+2602,Mid,Active,368,Two,5500,1,,Media,
+1133,Mid,Inactive,375,Two,5150,1,,General,No longer required
+2545,Mid,Active,393,Three,4000,1,,Education,
+421,High,Active,396,Three,5255,3,,Support Services,
+282,Low,Inactive,397,Two,4950,2,,General,No longer required
+1145,High,Active,400,Three,5100,2,,Financials,
+1367,Mid,Active,404,Three,4120,2,,Financials,
+901,Mid,Active,343,One,2000,3,,Freelancer,
+792,High,Active,410,Three,4120,2,,Support Services,
+1650,High,Inactive,451,One,2000,1,,Freelancer,No longer required
+751,Mid,Active,417,Two,4750,3,,General,
+1785,High,Active,419,Three,5750,2,,Financials,
+173,Mid,Active,430,Three,2000,1,,Property,
+1321,Mid,Active,435,Three,5100,2,,Financials,
+386,Mid,Active,447,Three,5100,3,,Support Services,
+14,High,Active,448,Two,6955,5,,Financials,
+1599,High,Active,473,One,2000,2,,Freelancer,
+1113,High,Active,457,Three,5100,2,,Financials,
+1437,High,Active,467,Three,5000,1,,Government Bodies,
+262,High,Active,470,Three,4500,5,,Financials,
+643,High,Active,472,Two,6435,2,,Support Services,
+705,Mid,Active,539,One,2000,2,,Freelancer,
+1081,Mid,Active,477,Three,4950,3,,Financials,
+1037,Low,Inactive,483,Two,5100,2,,Support Services,No longer required
+784,High,Active,493,Three,4250,3,,Financials,
+2440,High,Active,608,One,2000,1,,Freelancer,
+1534,High,Active,496,Three,4378,2,,Government Bodies,
+1077,High,Active,501,Three,4000,2,,Charity,
+527,High,Active,503,Three,4950,4,,Financials,
+1747,High,Active,506,Three,3500,2,,Financials,
+355,,Inactive,512,Three,4750,2,,Financials,No longer required
+1630,High,Active,515,Three,6000,2,,Financials,
+279,High,Active,520,Three,5100,2,,Financials,
+1710,Low,Inactive,529,Three,4500,1,,Financials,No longer required
+48,High,Active,531,Three,4500,6,,Financials,
+1730,High,Active,621,One,2000,2,,Freelancer,
+481,High,Inactive,540,Three,5045,3,,Charity,No longer required
+2067,High,Active,553,Three,4000,1,,Financials,
+234,High,Active,559,Three,7425,4,,Financials,
+810,Mid,Active,566,Three,5100,3,,Property,
+1831,High,Active,568,Three,5500,1,,Financials,
+22,High,Active,570,Three,4750,3,,Financials,
+1263,High,Active,576,Three,8825,1,,Insurance,
+1052,High,Active,578,Two,4950,3,,General,
+1987,High,Inactive,723,One,2000,1,Mid-term,Freelancer,Insufficient Funds
+348,Mid,Active,584,Three,5940,3,,Financials,
+1589,Mid,Active,591,Three,5700,2,,Government Bodies,
+1146,High,Active,597,Three,4950,2,,Transport,
+1485,High,Active,1006,One,2000,1,,Freelancer,
+2481,High,Active,616,Three,5000,1,,Financials,
+206,High,Active,618,Three,5100,2,,Insurance,
+90,High,Active,620,Three,4500,5,,Financials,
+1543,Low,Inactive,1096,One,2000,1,,Freelancer,Insufficient Funds
+91,High,Active,628,Two,4500,5,,Financials,
+2412,High,Active,634,Three,2850,1,,Charity,
+414,High,Active,635,Three,4750,4,,Insurance,
+577,High,Active,643,Three,4950,2,,Consumer Finance,
+2434,Mid,Active,652,Three,6500,1,,Financials,
+950,Mid,Inactive,877,One,2000,1,,Freelancer,No longer required
+1428,High,Active,655,Three,5000,2,,Support Services,
+359,High,Active,661,Three,9230,3,,Support Services,
+1231,Mid,Active,662,Three,4625,3,,Financials,
+36,High,Active,668,Two,20890,1,,Media,
+2508,High,Active,669,Two,5000,1,,General,
+298,High,Active,673,Three,5126,4,,Financials,
+1592,High,Active,675,Three,4000,2,,Consumer Products,
+1250,Mid,Active,676,Three,5100,3,,Government Bodies,
+1447,High,Active,677,Three,4000,1,,Consumer Finance,
+177,High,Active,678,Two,4120,3,,Financials,
+2159,High,Active,680,Three,5100,1,,Financials,
+1415,High,Active,685,Three,4500,2,,Financials,
+581,High,Active,691,Three,4950,4,,Financials,
+2210,High,Active,703,Three,4000,1,,Government Bodies,
+310,Low,Active,707,Three,4950,2,,Industry,
+666,Mid,Active,717,Two,4990,3,,Financials,
+911,High,Active,719,Three,5255,3,,Education,
+2265,Mid,Inactive,988,One,2000,1,Mid-term,Freelancer,No longer required
+1182,High,Active,727,Three,5100,2,,Education,
+112,Mid,Active,729,Three,5100,3,,Financials,
+1000,High,Active,738,Three,6190,3,,Energy,
+2199,Mid,Active,254,One,2000,1,,Freelancer,
+851,High,Active,745,Three,3950,1,,Technology,
+1513,Mid,Active,747,Two,3400,2,,Healthcare,
+1856,High,Active,761,Three,8000,1,,Financials,
+1648,Mid,Active,762,Three,4950,2,,Financials,
+1143,Mid,Active,764,Three,4841,3,,Financials,
+533,Mid,Inactive,766,Three,4950,1,,Government Bodies,Switched to competitor
+1790,Mid,Active,784,Three,5100,1,,Financials,
+952,Low,Inactive,787,Three,2500,2,,Technology,Data Quality
+1512,Mid,Active,790,Three,5500,1,,Insurance,
+1292,High,Active,806,Three,5775,2,,Charity,
+1098,Mid,Active,810,Two,4950,3,,General,
+469,High,Active,818,Three,3715,4,,Insurance,
+996,Mid,Active,820,Two,4950,3,,General,
+450,High,Active,822,Three,3245,4,,Property,
+87,High,Active,823,Three,4500,5,,Financials,
+717,High,Active,824,Three,5940,3,,Industry,
+1175,Mid,Active,843,Two,4950,2,,Property,
+189,Mid,Active,844,Three,5255,3,,Financials,
+1340,Mid,Active,849,Three,5000,1,,Financials,
+2415,Mid,Active,850,Three,5000,1,,Transport,
+690,Mid,Inactive,859,Three,4000,1,,Support Services,Switched to competitor
+510,Mid,Active,861,Three,4120,4,,Industry,
+2623,Mid,Active,862,Two,4000,1,,General,
+1334,Mid,Active,355,One,2000,1,,Freelancer,
+102,High,Active,867,Three,5785,4,,Financials,
+34,High,Active,868,Three,4950,3,,Financials,
+971,Mid,Active,871,Three,4950,3,,Education,
+526,High,Active,872,Three,4500,3,,Insurance,
+2549,High,Active,876,Three,6000,1,,Industry,
+1957,High,Active,880,Three,15000,1,,Media,
+1840,Mid,Active,382,One,2000,2,,Freelancer,
+547,Mid,Active,891,Three,4120,3,,Media,
+46,Low,Active,893,Three,4950,2,,Financials,
+2381,High,Active,901,Three,5950,1,,Retailers,
+2018,High,Inactive,906,Three,4455,1,,Financials,No longer required
+1487,High,Active,908,Three,4950,2,,Financials,
+2339,Mid,Active,912,Three,5500,1,,Financials,
+62,High,Inactive,916,Three,4763,3,,Financials,Switched to competitor
+2535,High,Active,919,Three,5000,1,,Travel & Leisure,
+25,High,Active,921,Three,4500,6,,Financials,
+1368,Mid,Active,924,Three,5100,2,,Financials,
+2288,High,Active,926,Three,5500,1,,Technology,
+475,High,Active,940,Two,5255,3,,Financials,
+404,High,Active,944,Three,5450,4,,Financials,
+202,High,Active,945,Three,10560,5,,Insurance,
+1536,High,Active,956,Two,4825,2,,Support Services,
+1048,Mid,Active,959,Three,5100,3,,Consumer Finance,
+2509,Mid,Active,962,Three,5500,1,,Insurance,
+190,Mid,Active,966,Two,3500,5,,Energy,
+105,High,Active,973,Two,4500,5,,Financials,
+108,Mid,Active,977,Two,4120,5,,Financials,
+428,High,Inactive,980,Two,10000,1,Mid-term,General,Switched to competitor
+553,High,Active,984,Three,4950,4,,Industry,
+251,High,Active,990,Three,4500,5,,Financials,
+2317,High,Active,442,One,2000,1,,Freelancer,
+906,High,Inactive,1010,Three,5100,2,,Industry,Insufficient Funds
+599,High,Active,1012,Three,4650,2,,Financials,
+514,Low,Inactive,1021,Two,5950,2,Mid-term,General,Data Quality
+505,High,Inactive,1023,Three,4380,1,,Financials,Switched to competitor
+1003,High,Active,1029,Two,4000,3,,General,
+382,High,Active,1034,Three,4750,4,,Financials,
+627,Low,Inactive,1041,Three,5100,2,,Travel & Leisure,No longer required
+2247,High,Active,1048,Three,5000,1,,Insurance,
+1039,Low,Active,1057,Three,4000,3,,Insurance,
+1126,High,Active,1058,Three,4950,2,,Transport,
+1922,High,Active,1061,Three,5000,1,,Travel & Leisure,
+383,High,Active,1064,Three,4775,5,,Financials,
+1324,High,Active,1070,Three,4950,2,,Industry,
+841,High,Active,1077,Two,4000,3,,General,
+146,High,Active,1078,Three,5665,4,,Financials,
+1290,High,Active,1079,Three,4950,2,,Financials,
+1507,Mid,Active,1081,Three,4950,2,,Financials,
+2212,High,Active,1084,Three,5500,1,,Education,
+790,Mid,Active,1094,Three,3150,3,,Consumer Finance,
+2469,Mid,Active,445,One,2000,1,,Freelancer,
+1141,High,Active,530,One,2000,3,,Freelancer,
+2519,High,Active,1103,Three,5000,1,,Travel & Leisure,
+455,Mid,Active,1121,Three,7344,4,,Financials,
+2003,High,Active,1125,Two,5000,1,,Travel & Leisure,
+2553,High,Active,1129,Three,2500,1,,Financials,
+791,Mid,Active,1132,Two,4120,3,,Travel & Leisure,
+76,Low,Inactive,1134,Three,4515,5,,Financials,No longer required
+624,High,Active,1136,Three,5500,1,,Financials,
+951,Mid,Inactive,1143,Three,4150,2,,Charity,Switched to competitor
+2446,High,Active,1146,Three,4500,1,,Support Services,
+566,High,Active,1147,Three,4950,3,,Consumer Finance,
+2342,Mid,Active,1148,Three,3150,3,,Property,
+569,Mid,Active,1151,Three,4750,1,,Insurance,
+1170,,Inactive,8,Three,3000,2,,Financials,Merged with exsisting client
+638,Mid,Inactive,59,Three,4000,1,,Retailers,No longer required
+809,Mid,Inactive,162,Two,4750,1,,General,Switched to competitor
+1492,Mid,Inactive,190,Two,4950,1,,General,Data Quality
+1104,Mid,Inactive,195,Two,4950,1,,General,No longer required
+1176,Mid,Inactive,214,Two,4250,1,,General,No longer required
+315,Mid,Inactive,261,Two,5098,1,,General,Switched to competitor
+1301,Mid,Inactive,296,Three,4450,1,,Retailers,No longer required
+1311,Low,Inactive,373,Two,4000,1,,General,No longer required
+997,Low,Inactive,476,Three,4950,1,,Financials,No longer required
+33,,Inactive,633,Three,4950,2,Mid-term,Financials,No longer required
+1022,High,Inactive,682,Two,6708,1,,General,No longer required
+370,Mid,Inactive,780,Three,4500,1,,Financials,No longer required
+840,Mid,Inactive,783,Three,4950,1,,Financials,No longer required
+583,Mid,Inactive,847,Two,4950,1,,General,No longer required
+1531,Low,Inactive,996,Three,4000,1,,Charity,Insufficient Funds
+609,Mid,Inactive,1059,Three,4950,1,,Financials,Insufficient Funds
+1021,Mid,Inactive,1119,Two,4000,1,,General,Merged with exsisting client
+1375,Mid,Inactive,413,Three,4000,1,Mid-term,Industry,Switched to competitor
+1921,Mid,Active,650,One,2000,2,,Freelancer,
+1205,High,Active,663,One,2000,2,,Freelancer,
+1358,Low,Inactive,931,Three,2500,1,Mid-term,Education,Data Quality
+1386,Mid,Inactive,1115,Two,3000,1,,General,Insufficient Funds
+1457,Mid,Inactive,310,Three,3000,1,,Charity,Insufficient Funds
+1362,High,Active,12,Two,4000,2,,General,
+1986,Mid,Active,17,Two,2500,1,,General,
+1501,Mid,Active,22,Three,4000,1,,Charity,
+646,Mid,Inactive,23,Two,2000,1,,General,Insufficient Funds
+1604,Mid,Active,26,Two,4950,2,,Industry,
+1535,Low,Inactive,802,One,2000,1,,Freelancer,Data quality
+2514,Mid,Active,31,Three,4950,1,,Travel & Leisure,
+925,High,Active,46,Three,4120,3,,Financials,
+1281,High,Active,64,Three,5100,3,,Insurance,
+2279,Mid,Active,65,Three,4750,1,,Charity,
+1563,High,Active,73,Two,4950,2,,General,
+53,High,Active,75,Two,4500,6,,Financials,
+1688,Mid,Active,100,Three,4950,2,,Charity,
+1157,Mid,Active,101,Three,4500,2,,Support Services,
+1187,High,Active,121,Three,3000,3,,Financials,
+2318,High,Active,124,Three,5000,1,,Financials,
+1460,Mid,Active,125,Two,4950,2,,Travel & Leisure,
+1131,high,Active,130,Three,2083,3,,Charity,
+1911,Mid,Active,131,Two,4950,2,,General,
+396,high,Active,135,Two,5100,4,,Financials,
+806,High,Active,136,Three,5253,3,,Financials,
+1649,Mid,Active,138,Three,3000,2,,Travel & Leisure,
+18,High,Active,141,Three,4950,2,,Support Services,
+1193,High,Active,145,Two,4000,1,,General,
+1745,High,Active,913,One,2000,2,,Freelancer,
+1426,Mid,Active,932,One,2000,2,,Freelancer,
+658,High,Active,153,Three,4250,3,,Financials,
+2542,Mid,Active,175,Two,5000,1,,Media,
+86,High,Active,188,Three,5039,5,,Financials,
+1994,Low,Inactive,197,Three,3500,1,,Retailers,No longer required
+55,High,Active,204,Two,4950,3,,General,
+1918,Mid,Active,208,Three,4950,1,,Support Services,
+20,High,Active,212,Three,4500,5,,Financials,
+1452,Mid,Active,215,Two,5500,1,,General,
+460,High,Active,222,Two,10000,1,,General,
+231,High,Active,223,Three,5100,3,,Media,
+2413,High,Active,226,Two,4200,1,,General,
+592,High,Active,231,Three,4000,3,,Charity,
+1693,High,Active,237,Three,4300,2,,Property,
+2175,Mid,Active,247,Three,4250,1,,Property,
+664,Mid,Active,251,Three,4950,3,,Education,
+1395,High,Active,943,One,2000,2,,Freelancer,
+1150,High,Active,255,Two,4120,3,,General,
+1174,High,Inactive,257,Three,5100,2,,Charity,Switched to competitor
+2419,Mid,Active,263,Two,2500,1,,General,
+188,Mid,Active,265,Three,5250,4,,Financials,
+1211,High,Active,267,Three,4950,2,,Financials,
+1627,Mid,Active,268,Three,4000,2,,Travel & Leisure,
+377,High,Active,276,Three,5253,4,,Financials,
+1520,High,Active,277,Three,4950,2,,Financials,
+254,High,Active,278,Three,4950,2,,Property,
+2513,Mid,Active,286,Three,4250,1,,Media,
+1378,Mid,Active,287,Three,3500,2,,Charity,
+2048,Mid,Active,288,Two,3500,1,,General,
+230,High,Active,293,Three,5410,5,,Media,
+893,Mid,Active,295,Three,5100,3,,Utilities,
+2002,Mid,Active,309,Two,5500,1,,General,
+660,Mid,Active,336,Three,4950,2,,Education,
+2471,Mid,Active,348,Three,4500,1,,Retailers,
+250,Low,Active,349,Three,5150,4,,Financials,
+1844,Mid,Active,350,Two,4950,2,,General,
+2349,Mid,Active,353,Two,3500,1,,General,
+1926,High,Inactive,104,One,2000,1,Mid-term,Freelancer,No longer required
+299,High,Active,357,Two,4500,5,,General,
+1551,Mid,Active,365,Two,3750,1,,General,
+2192,High,Active,376,Three,3000,1,,Charity,
+1647,Mid,Inactive,107,One,2000,1,Mid-term,Freelancer,Insufficient Funds
+1758,High,Active,43,One,2000,2,,Freelancer,
+13,High,Active,246,One,2000,3,,Freelancer,
+545,Mid,Active,388,Three,4950,2,,Charity,
+1217,High,Active,390,Two,5500,2,,Technology,
+261,High,Active,398,Three,5100,4,,Financials,
+2616,Mid,Active,411,Three,5000,1,,Support Services,
+1178,Mid,Inactive,421,Three,2060,2,,Charity,No longer required
+171,High,Active,422,Three,5200,4,,Financials,
+1103,High,Active,426,Two,6435,2,,Media,
+1903,Mid,Active,427,Three,4750,1,,Charity,
+136,High,Active,428,Two,4750,4,,Financials,
+2499,Mid,Active,431,Two,2000,1,,General,
+1248,Mid,Active,433,Three,3000,2,,Retailers,
+679,High,Active,437,Two,4200,3,,Government Bodies,
+737,Mid,Active,281,One,2000,3,,Freelancer,
+1237,Mid,Active,360,One,2000,2,,Freelancer,
+1091,Mid,Active,456,Three,4950,2,,Charity,
+1659,Low,Inactive,458,Two,4200,1,,General,Switched to competitor
+39,High,Active,459,Three,4950,2,,Insurance,
+2340,High,Active,465,Two,2750,1,,Support Services,
+1245,High,Active,468,Two,3606,2,,General,
+134,Mid,Active,497,Three,5040,5,,Financials,
+58,Mid,Active,502,Three,5254,5,,Financials,
+2507,Mid,Active,505,Three,2500,1,,Support Services,
+51,High,Active,513,Three,5039,5,,Financials,
+1051,high,Active,518,Two,4000,2,,General,
+246,High,Active,523,Three,4500,5,,Financials,
+1442,High,Active,524,Two,5500,1,,General,
+757,High,Active,525,Two,4950,4,,General,
+1554,Low,Inactive,367,One,2000,1,,Freelancer,No longer required
+2033,Mid,Active,536,Three,4950,1,,Support Services,
+80,Mid,Active,537,Three,5045,5,,Financials,
+125,Mid,Active,538,Three,4870,4,,Financials,
+2482,Mid,Active,542,Three,6000,1,,Insurance,
+191,Mid,Active,371,One,2000,5,,Freelancer,
+2065,High,Active,436,One,2000,1,,Freelancer,
+1453,high,Active,564,Three,4950,2,,Government Bodies,
+166,high,Active,567,Two,4750,4,,General,
+1019,Low,Active,572,Three,4000,3,,Charity,
+1356,Mid,Active,574,Two,4950,1,,General,
+687,high,Active,575,Three,4950,2,,Education,
+2594,Mid,Active,581,Three,5500,1,,Retailers,
+1473,high,Active,586,Two,4950,2,,General,
+1746,Mid,Inactive,587,Two,4950,2,,General,
+1746,Mid,Active,588,Two,4950,2,,General,
+2536,Mid,Active,596,Three,4000,1,,Support Services,
+1155,Mid,Active,599,Three,3500,1,,Education,
+571,Mid,Active,600,Three,4950,4,,Financials,
+2040,Mid,Active,602,Three,4635,2,,Charity,
+2335,Mid,Active,611,Two,3500,2,,Retailers,
+248,high,Active,614,Two,4950,2,,General,
+431,Mid,Active,519,One,2000,4,,Freelancer,
+252,Mid,Active,624,Three,4950,2,,Property,
+626,high,Active,526,One,2000,4,,Freelancer,
+446,Mid,Active,630,Two,4950,1,,Financials,
+576,Mid,Active,631,Three,6000,1,,Financials,
+2196,Mid,Active,632,Two,3000,1,,Consumer Products,
+1836,Mid,Active,637,Two,4500,2,,Technology,
+2326,Mid,Active,638,Three,5500,1,,Retailers,
+401,high,Active,648,Three,4750,3,,Financials,
+1923,high,Active,583,One,2000,1,,Freelancer,
+1894,Mid,Active,657,Two,4950,2,,General,
+593,high,Active,660,Three,4000,3,,Charity,
+837,Mid,Inactive,589,One,2000,1,,Freelancer,No longer required
+2500,high,Active,665,Three,9700,1,,Transport,
+1992,high,Active,672,Two,4950,2,,Technology,
+192,high,Active,681,Three,4500,4,,Financials,
+1819,Mid,Active,688,Two,4000,2,,General,
+1259,high,Active,695,Three,4000,2,,Charity,
+1866,Mid,Active,696,Two,6000,1,,Consumer Products,
+1876,Mid,Active,706,Three,4750,1,,Healthcare,
+2248,high,Active,711,Two,4000,1,,Industry,
+61,high,Active,715,Three,4500,6,,Financials,
+614,high,Active,718,Three,4500,3,,Government Bodies,
+449,high,Active,720,Three,5000,1,,Financials,
+2354,Mid,Active,730,Three,5000,1,,Financials,
+1631,Mid,Active,734,Three,3090,2,,Energy,
+2563,Low,Active,739,Two,5500,1,,General,
+2071,high,Active,753,Two,3500,1,,Healthcare,
+2262,Mid,Active,755,Three,6000,1,,Support Services,
+530,high,Active,757,Two,4950,2,,General,
+1199,Mid,Active,759,Two,6435,2,,General,
+1816,Mid,Active,760,Two,4950,1,,General,
+1204,high,Active,770,Two,3000,3,,General,
+77,high,Active,777,Two,4500,2,,General,
+969,high,Active,778,Two,5100,1,,Travel & Leisure,
+1298,high,Active,789,Three,4120,2,,Financials,
+285,high,Active,792,Three,4750,4,,Financials,
+392,Mid,Active,796,Two,4000,1,,General,
+223,High,Active,798,Three,7070,4,,General,
+1774,High,Active,694,One,2000,2,,Freelancer,
+1716,Mid,Active,805,Two,4950,2,,Retailers,
+1838,Mid,Inactive,813,Three,3000,1,,Retailers,No longer required
+139,Mid,Active,814,Two,4950,2,,General,
+750,High,Active,816,Two,2060,3,,Financials,
+1255,High,Active,817,Three,5500,2,,Charity,
+1610,Low,Inactive,855,One,2000,1,Yes,Freelancer,No longer required
+118,High,Active,831,Three,4500,5,,Financials,
+1284,Mid,Active,833,Three,3000,2,,Charity,
+1754,Mid,Active,834,Three,3000,2,,Charity,
+889,Mid,Active,837,Two,4950,3,,General,
+2494,Mid,Active,846,Three,3000,1,,Consumer Products,
+1096,High,Active,854,Three,4950,3,,Consumer Products,
+1355,High,Active,857,Three,4950,2,,Charity,
+390,High,Active,866,Two,4750,3,,Financials,
+1336,High,Active,898,One,2000,1,,Freelancer,
+1675,High,Active,878,Two,4000,1,,General,
+550,Mid,Active,881,Three,5950,1,,Retailers,
+109,High,Inactive,888,Two,4000,2,Mid-term,General,No longer required
+559,High,Active,894,Three,5950,4,,Financials,
+2132,High,Active,900,Two,4750,1,,General,
+1186,High,Active,903,Two,4480,3,,General,
+1593,Mid,Active,1015,One,2000,2,,Freelancer,
+939,Mid,Active,918,Three,5100,2,,Financials,
+29,High,Active,927,Three,4500,6,,Financials,
+2148,High,Active,930,Two,3500,1,,General,
+845,High,Active,1019,One,2000,1,,Freelancer,
+1300,High,Inactive,1150,One,2000,1,,Freelancer,Insufficient Funds
+2006,Mid,Active,949,Three,5000,1,,Travel & Leisure,
+1809,Mid,Active,963,Two,3200,1,,General,
+307,High,Active,967,Two,2060,5,,General,
+1424,High,Active,970,Three,2500,2,,Industry,
+422,High,Active,975,Two,7700,2,,Financials,
+2231,Mid,Active,979,Two,3000,1,,General,
+1506,Mid,Active,981,Three,3000,1,,Consumer Products,
+999,High,Active,985,Three,4950,2,,Transport,
+1206,High,Active,986,Two,7200,2,,General,
+1285,High,Active,991,Two,3000,2,,General,
+266,High,Active,995,Three,4500,5,,Financials,
+1681,Mid,Active,1002,Three,4150,2,,Charity,
+1643,Mid,Active,1007,Three,5500,1,,Travel & Leisure,
+2254,High,Active,1008,Three,4000,1,,Government Bodies,
+572,High,Active,1009,Two,2000,4,,Property,
+1033,Mid,Active,1011,Three,3750,2,,Charity,
+1636,Mid,Active,1016,Three,5100,2,,Support Services,
+2473,Mid,Active,1024,Two,3500,1,,General,
+1818,Mid,Active,1026,Three,4950,2,,Charity,
+1801,Mid,Active,1030,Three,4000,2,,Travel & Leisure,
+2054,Mid,Active,1032,Three,3500,2,,Travel & Leisure,
+1739,Mid,Active,1033,Three,4207,2,,Retailers,
+1010,Mid,Active,1036,Two,4950,1,,General,
+1955,High,Active,1039,Two,4500,1,,Travel & Leisure,
+175,High,Active,1043,Three,4950,4,,Financials,
+1464,Mid,Active,1051,Three,4000,2,,Charity,
+1792,Low,Active,1055,Three,4500,2,,Support Services,
+1623,Mid,Active,1075,Two,4600,2,,Property,
+2421,High,Active,1083,Three,5000,1,,Government Bodies,
+1724,Mid,Active,1085,Three,3000,2,,Financials,
+1661,Low,Active,1090,Three,4950,1,,Education,
+1357,High,Active,1092,Three,2500,2,,Education,
+1990,Mid,Active,1097,Three,4950,1,,Media,
+1400,Mid,Active,1099,Three,4100,2,,Charity,
+1179,High,Active,1106,Two,4950,2,,General,
+2053,Mid,Active,1108,Two,5950,2,,Financials,
+317,High,Active,1112,Three,4500,5,,Financials,
+2197,Mid,Active,1118,Three,9500,1,,General,
+1074,Mid,Active,1127,Three,3000,2,,Charity,
+521,Mid,Active,1130,Two,4635,3,,Technology,
+1476,Mid,Inactive,147,Two,4950,1,Mid-term,General,Switched to competitor
+1467,Low,Inactive,429,Three,4950,1,,Retailers,No longer required
+1989,Low,Inactive,832,Three,2000,1,Mid-term,General,No longer required
+1750,Mid,Inactive,58,Two,4950,1,,General,Insufficient Funds
+2665,Mid,Active,821,One,2000,1,,Freelancer,
+1545,Mid,Inactive,45,One,2000,1,,Freelancer,No longer required
+1656,High,Inactive,134,Three,4000,1,,General,Data Quality
+1404,High,Inactive,173,Three,4950,1,,Education,Switched to competitor
+2037,High,Inactive,269,Three,4000,1,,Financials,No longer required
+1396,Low,Inactive,492,Two,4500,2,Mid-term,General,Switched to competitor
+1672,Low,Inactive,534,Three,4950,1,,Travel & Leisure,No longer required
+2136,Mid,Inactive,840,One,2000,1,Mid-term,Freelancer,Insufficient Funds
+1629,Low,Inactive,807,Three,4200,1,,Technology,No longer required
+1044,Low,Inactive,839,Two,4950,1,,General,Data Quality
+1346,Mid,Inactive,870,Three,2500,1,,Travel & Leisure,Insufficient Funds
+1620,Mid,Inactive,1017,Three,4950,1,,Travel & Leisure,No longer required
+994,Low,Inactive,1073,Three,3000,1,,Financials,No longer required
+1644,Low,Inactive,1074,Two,2500,1,,General,Switched to competitor
+1619,Low,Inactive,1105,Three,4000,1,,Retailers,
+482,Mid,Inactive,10,Three,4000,1,,Support Services,No longer required
+148,Mid,Active,11,Three,4500,5,,Financials,
+600,Mid,Inactive,13,Two,4950,1,,General,No longer required
+101,Mid,Active,14,Three,4950,2,,Financials,
+1553,High,Active,19,Two,4950,2,,General,
+184,Mid,Inactive,20,Three,5100,3,,Insurance,Switched to competitor
+1401,Mid,Inactive,801,One,2000,1,,Freelancer,Insufficient Funds
+744,Mid,Inactive,44,Two,3500,1,,General,Switched to competitor
+149,Mid,Inactive,1113,One,2000,1,,Freelancer,Insufficient Funds
+389,Mid,Active,56,Two,4750,4,,General,
+2066,High,Active,60,Three,5000,1,,Consumer Finance,
+1249,Mid,Inactive,61,Three,3605,1,,Consumer Products,Low engagement
+371,,Inactive,87,Three,4950,2,,Financials,No longer required
+68,Mid,Inactive,96,Three,4950,1,,Financials,No longer required
+1188,Mid,Active,99,Two,4950,2,,General,
+1122,Mid,Active,372,One,2000,2,,Freelancer,
+1277,Mid,Active,110,Two,4635,2,,Financials,
+1235,Low,Active,111,Three,5500,2,,Transport,
+992,High,Inactive,117,Two,4950,1,,General,Merged with exsisting client
+1612,High,Active,132,Two,2000,2,,Consumer Products,
+174,Mid,Active,133,Three,4500,5,,Financials,
+11,Mid,Active,137,Three,5050,6,,Financials,
+1762,Low,Active,142,Two,4950,2,,General,
+1191,Mid,Active,144,Three,4500,2,,Financials,
+244,High,Active,149,Three,4750,5,,Financials,
+320,High,Active,151,Three,4250,4,,Financials,
+2111,High,Active,152,Three,2500,1,,Industry,
+204,High,Active,158,Two,4500,4,,Financials,
+406,Mid,Inactive,164,Three,4950,1,,Financials,Switched to competitor
+1497,High,Active,167,Three,4500,2,,Charity,
+2311,High,Active,168,Two,4950,1,,Consumer Products,
+311,Mid,Active,169,Three,4500,4,,Financials,
+1674,High,Active,185,Three,5500,2,,Travel & Leisure,
+684,Low,Inactive,186,Three,4950,1,,Industry,Switched to competitor
+60,High,Active,189,Two,3500,5,,General,
+1335,Mid,Active,194,Three,4950,2,,Technology,
+1805,Low,Active,200,Two,4950,2,,Financials,
+2291,High,Active,203,Three,4950,1,,Financials,
+2166,High,Active,216,Three,4500,1,,Financials,
+536,Mid,Inactive,224,Three,4250,3,,Industry,No longer required
+846,Mid,Inactive,227,Two,4250,1,,General,No longer required
+795,,Inactive,233,Two,2000,2,,Media,No longer required
+1448,Mid,Active,423,One,2000,2,,Freelancer,
+2331,High,Active,942,One,2000,1,,Freelancer,
+1733,High,Inactive,256,Two,4000,1,Yes,Travel & Leisure,Switched to competitor
+2204,High,Active,384,One,2004,1,,Freelancer,
+2226,High,Active,262,Two,4950,1,,General,
+1087,Mid,Inactive,271,Three,4950,1,,Technology,No longer required
+365,Mid,Inactive,274,Two,2000,1,,General,No longer required
+126,,Inactive,275,Three,4500,4,,Financials,No longer required
+713,Mid,Inactive,450,One,2050,1,,Freelancer,Insufficient Funds
+896,Mid,Active,291,Three,4500,2,,Charity,
+323,Mid,Active,300,Three,4500,4,,Financials,
+352,Mid,Inactive,311,Two,4500,1,,General,We terminated contract
+591,High,Active,315,Two,4950,4,,General,
+2059,Mid,Active,317,Three,4950,1,,Charity,
+1239,Low,Inactive,319,Two,3500,1,,General,Insufficient Funds
+23,Mid,Active,330,Three,4500,5,,Financials,
+760,High,Active,332,Three,4950,3,,Transport,
+867,Mid,Active,342,Two,4000,2,,General,
+1115,Mid,Inactive,346,Two,4950,1,,General,Data Quality
+410,Mid,Active,352,Two,4750,3,,Financials,
+817,Mid,Inactive,883,One,2060,2,,Freelancer,No longer required
+1169,High,Inactive,183,One,2060,1,Mid-term,Freelancer,No longer required
+529,,Inactive,369,Three,4950,2,,Consumer Finance,Insufficient Funds
+2369,Mid,Active,405,One,2060,1,,Freelancer,
+1670,Mid,Active,380,Two,3000,2,,General,
+176,Mid,Active,383,Three,4500,5,,Financials,
+1937,High,Active,387,Three,3500,2,,Retailers,
+2097,High,Active,391,Three,4950,1,,Consumer Products,
+842,Mid,Active,415,One,2060,3,,Freelancer,
+1129,Mid,Inactive,406,Three,5253,2,,Travel & Leisure,No longer required
+1977,High,Active,408,Two,4900,1,,General,
+2305,High,Active,409,Two,4950,1,,Support Services,
+1958,High,Active,418,Two,4950,2,,Charity,
+2188,High,Active,425,Three,5500,1,,Travel & Leisure,
+929,High,Inactive,579,One,2060,2,,Freelancer,Switched to competitor
+900,High,Active,653,One,2060,3,,Freelancer,
+462,High,Active,544,One,2060,3,,Freelancer,
+1125,Mid,Active,443,Two,4950,2,,General,
+813,Mid,Inactive,444,Three,4950,1,,Financials,No longer required
+470,Mid,Active,452,Three,3700,2,,Charity,
+1815,High,Active,460,Three,4950,1,,Charity,
+615,Mid,Inactive,463,Three,4500,1,,Travel & Leisure,No longer required
+2005,High,Active,466,Three,4950,1,,Financials,
+413,High,Active,475,Two,5100,4,,Financials,
+2358,High,Active,478,Three,4750,1,,Financials,
+1392,Low,Active,479,Two,4000,2,,Technology,
+278,Mid,Active,480,Two,4500,5,,Financials,
+1582,High,Active,484,Two,2000,2,,Media,
+132,Mid,Active,486,Three,4500,5,,Financials,
+1192,Mid,Inactive,487,Three,4950,1,,Support Services,No longer required
+1232,Mid,Active,488,Two,4950,2,,Healthcare,
+480,High,Active,491,Two,4950,4,,General,
+71,High,Active,508,Three,4000,5,,Financials,
+645,Mid,Inactive,509,Three,4250,1,,Financials,No longer required
+484,,Inactive,511,Three,4750,2,,Financials,No longer required
+1068,Mid,Active,438,One,2060,2,,Freelancer,
+1673,High,Active,521,Three,4950,2,,Travel & Leisure,
+693,Mid,Inactive,573,One,2122,3,,Freelancer,No longer required
+639,High,Active,827,One,2125,3,,Freelancer,
+56,Mid,Active,527,Three,4500,6,,Financials,
+917,High,Active,885,One,2165,3,,Freelancer,
+104,High,Active,532,Two,4500,4,,General,
+2409,High,Active,541,Two,4950,1,,General,
+1845,High,Active,545,Three,4950,1,,Education,
+1387,High,Active,547,Two,4950,2,,Telecoms,
+2174,high,Active,551,Three,4750,1,,Education,
+265,Mid,Active,560,Two,4500,5,,Financials,
+271,High,Active,577,Three,4000,3,,Consumer Finance,
+1717,High,Inactive,740,One,2200,1,,Freelancer,Insufficient Funds
+2028,High,Active,47,One,2250,2,,Freelancer,
+1788,High,Inactive,601,Three,4750,1,Yes,Education,Switched to competitor
+1258,Mid,Inactive,809,One,2250,1,,Freelancer,No longer required
+2425,High,Active,615,Two,4000,1,,Charity,
+2298,High,Active,617,Two,4800,1,,Consumer Products,
+2302,High,Active,619,Three,5100,1,,Retailers,
+1706,Mid,Active,640,Three,5000,1,,Support Services,
+731,Mid,Inactive,641,Two,4950,2,,General,No longer required
+1898,High,Active,642,Two,5500,1,,Travel & Leisure,
+2035,High,Active,649,Two,4950,1,,General,
+490,Mid,Inactive,654,Three,3100,1,,Industry,No longer required
+1621,High,Active,658,Two,4950,2,,General,
+350,Mid,Active,671,Three,4000,5,,Financials,
+1678,High,Active,683,Three,3500,2,,Support Services,
+1699,High,Active,690,Three,6000,2,,Financials,
+513,,Inactive,693,Two,4893,3,,General,No longer required
+185,High,Active,28,One,2255,4,,Freelancer,
+391,Mid,Active,702,Three,4000,4,,Retailers,
+15,Mid,Inactive,716,Three,4750,1,,Media,No longer required
+1523,High,Active,724,Two,4950,1,,General,
+164,High,Active,726,Three,4500,4,,Financials,
+372,High,Active,731,Two,4000,4,,Financials,
+728,Mid,Inactive,733,Three,4950,1,,Financials,No longer required
+967,Mid,Inactive,736,Three,4950,1,,Energy,No longer required
+1036,Mid,Active,741,Three,5100,2,,Government Bodies,
+21,Mid,Inactive,746,Three,4500,1,,Financials,Switched to competitor
+1257,High,Active,749,Two,4950,1,,General,
+2275,Mid,Active,758,Three,2750,1,,Financials,
+1308,High,Active,765,Two,3000,2,,General,
+245,Mid,Active,772,Three,4500,5,,Government Bodies,
+305,Mid,Active,773,Three,4750,4,,Financials,
+516,Mid,Active,793,Two,2000,2,,General,
+561,Mid,Inactive,799,Two,4950,1,,General,No longer required
+919,Mid,Active,1098,One,2400,3,,Freelancer,
+2094,Mid,Inactive,811,Three,10500,1,Yes,Financials,No longer required
+37,High,Active,815,Two,5500,2,,General,
+768,Mid,Inactive,819,Three,4950,1,,Financials,No longer required
+327,High,Active,829,Three,6312,5,,Financials,
+1509,High,Active,848,Three,4000,2,,Financials,
+2118,High,Active,853,Two,4950,1,,General,
+1314,Mid,Active,449,One,2400,2,,Freelancer,
+548,High,Active,858,Two,4550,2,,General,
+1410,High,Active,860,Three,5100,1,,Healthcare,
+1136,Mid,Active,863,Three,4950,3,,Technology,
+2056,High,Active,869,Three,4650,1,,Charity,
+865,High,Active,875,Three,4950,1,,Financials,
+1667,High,Inactive,882,Two,3000,1,,Healthcare,No longer required
+1940,Mid,Active,887,Two,4500,1,,Government Bodies,
+1151,Mid,Active,889,Two,5000,1,,General,
+1808,High,Active,402,One,2500,2,,Freelancer,
+2558,Mid,Active,440,One,2500,1,,Freelancer,
+1373,Mid,Active,905,Three,3500,2,,Financials,
+1698,High,Active,923,Two,5500,2,,General,
+1110,Mid,Inactive,929,Three,4950,1,,Telecoms,No longer required
+838,Low,Inactive,934,Three,4950,2,,Consumer Finance,Insufficient Funds
+267,,Inactive,950,Two,2000,2,Mid-term,General,No longer required
+2233,Mid,Inactive,964,Three,3000,1,Mid-term,Retailers,No longer required
+63,High,Active,786,One,2500,3,,Freelancer,
+115,Mid,Inactive,971,Three,6500,2,,Consumer Finance,Switched to competitor
+830,Mid,Inactive,974,Three,4000,1,,Charity,Insufficient Funds
+1569,High,Active,978,Two,5950,2,,Travel & Leisure,
+1936,High,Active,987,Three,4950,1,,Travel & Leisure,
+1581,High,Active,993,Three,4950,1,,Charity,
+2287,Mid,Active,999,Three,4000,1,,Healthcare,
+399,Mid,Active,1000,Three,5400,4,,Financials,
+1228,High,Active,146,One,2500,2,,Freelancer,
+1772,High,Active,1005,Three,4950,1,,Government Bodies,
+1272,Mid,Inactive,874,One,2500,1,,Freelancer,No longer required
+1628,Low,Active,392,One,2500,2,,Freelancer,
+1439,Mid,Active,1022,Three,2500,2,,Charity,
+2433,Mid,Active,1025,Three,3000,1,,Government Bodies,
+427,Mid,Active,1035,Three,4750,4,,Financials,
+1976,High,Active,1040,Two,4500,2,,General,
+1306,Mid,Active,1046,Three,4500,3,,Travel & Leisure,
+1980,Mid,Active,1047,Three,5500,2,,Financials,
+2092,High,Active,1054,Two,4900,1,,General,
+2036,Mid,Inactive,1062,Two,3500,1,,General,Insufficient Funds
+321,High,Active,1072,Two,8925,5,,Financials,
+67,,Inactive,1100,Three,4000,2,,Energy,No longer required
+556,Low,Inactive,1109,Three,2500,1,,Government Bodies,No longer required
+2025,High,Active,1117,Three,3000,1,,Healthcare,
+1752,High,Active,1126,Two,4950,2,,Consumer Products,
+1508,High,Active,1139,Three,4950,2,,Technology,
+699,High,Active,1140,Two,3250,1,,General,
+453,High,Active,1142,Two,4750,2,,General,
+1216,High,Active,148,One,2575,2,,Freelancer,
+1738,High,Active,115,Three,4950,2,,Government Bodies,
+848,Mid,Active,118,Three,4000,3,,Financials,
+2613,Mid,Active,187,Two,8250,1,,Technology,
+1932,Mid,Active,210,Two,5500,1,,General,
+1030,Mid,Active,328,Three,4950,2,,Financials,
+2155,High,Active,364,Three,5500,1,,Financials,
+1929,High,Active,377,Two,4000,1,,Support Services,
+2557,Mid,Active,378,Two,5000,1,,General,
+124,Mid,Active,453,Three,5785,4,,Financials,
+2645,Mid,Active,562,Three,4500,1,,Travel & Leisure,
+2388,Mid,Active,590,Three,6000,1,,Support Services,
+1755,High,Active,748,Three,5100,1,,Property,
+2621,Mid,Active,750,Three,1000,1,,Travel & Leisure,
+2543,Mid,Active,791,One,3000,1,,Freelancer,
+1915,High,Active,933,Three,3500,1,,Travel & Leisure,
+1496,Mid,Active,989,Three,4000,2,,Media,
+42,Mid,Active,1135,One,3500,4,,Freelancer,
+349,Mid,Active,865,One,4000,5,,Freelancer,
+1555,Mid,Inactive,177,Three,4250,1,Mid-term,Media,Switched to competitor
+1542,Low,Inactive,249,Two,4850,1,,General,Data Quality
+1422,Mid,Inactive,554,Two,4950,1,,Technology,Low engagement
+874,Mid,Inactive,558,Three,2500,1,,Travel & Leisure,Insufficient Funds
+324,High,Active,7,One,4500,3,,Freelancer,
+835,Mid,Inactive,612,Two,3500,1,,General,Switched to competitor
+1489,Mid,Inactive,687,Three,3500,1,,Charity,Data Quality
+283,Mid,Active,582,Two,4500,5,,Financials,
+1479,Low,Inactive,804,Three,18750,1,,Travel & Leisure,No longer required
+1666,Mid,Inactive,1045,Three,4000,1,Mid-term,Media,Low engagement
+661,High,Active,494,Two,4950,2,,Property,
+619,,Inactive,41,Three,4950,2,,Property,No longer required
+1883,Mid,Active,623,One,4950,2,,Freelancer,
+1045,Mid,Inactive,341,Two,4500,1,,General,Switched to competitor
+494,Mid,Inactive,374,Two,1500,1,,General,No longer required
+670,Mid,Inactive,510,Three,4124,1,,Charity,Low engagement
+1160,Mid,Active,102,One,4950,3,,Freelancer,
+1343,Mid,Active,240,One,4950,1,,Freelancer,
+523,Mid,Inactive,732,Three,4950,1,,Technology,No longer required
+1137,Mid,Inactive,938,Two,3250,1,,General,No longer required
+2232,High,Active,439,One,4950,1,,Freelancer,
+378,Low,Inactive,721,Three,4500,3,,Financials,Switched to competitor
+64,Mid,Inactive,954,Three,4500,1,,Financials,Merged with exsisting client
+1380,Mid,Active,30,Two,4950,2,,General,
+1735,Mid,Active,32,Three,3500,2,,General,
+2572,Mid,Active,52,Three,5000,1,,Retailers,
+183,Mid,Active,83,Two,1500,2,,Financials,
+1505,Mid,Active,109,Two,4950,2,,Consumer Products,
+1585,Mid,Active,120,Two,3500,1,,Travel & Leisure,
+1446,High,Active,191,Three,4500,2,,Travel & Leisure,
+89,Mid,Active,207,Three,4500,5,,Financials,
+2019,High,Active,284,Two,4950,1,,General,
+1780,Mid,Active,294,Two,4950,2,,Travel & Leisure,
+1338,High,Inactive,609,One,4950,1,,Freelancer,No longer required
+2660,Mid,Active,395,Three,4633,1,,Telecoms,
+539,High,Active,416,Three,4950,1,,Education,
+1266,Low,Inactive,313,One,4950,1,,Freelancer,No longer required
+2532,Mid,Active,1042,One,5005,1,,Freelancer,
+2692,Mid,Active,485,Three,4500,1,,Financials,
+2614,Mid,Active,498,Three,4000,1,,Property,
+1156,High,Active,500,Three,4250,2,,Government Bodies,
+1486,High,Active,504,Three,4950,2,,Industry,
+696,High,Active,356,Two,5100,4,,General,
+1841,High,Active,565,Two,2000,1,,General,
+2431,High,Active,646,Two,4250,1,,General,
+74,Mid,Active,647,Three,4750,4,,Financials,
+1907,high,Active,674,Two,5500,2,,Media,
+2164,High,Active,701,Three,3500,1,,Charity,
+2017,high,Active,704,Three,5500,1,,Utilities,
+1824,High,Active,709,Two,4950,2,,Travel & Leisure,
+274,Mid,Active,722,Three,4000,4,,Government Bodies,
+430,Mid,Active,756,Three,4750,4,,Support Services,
+1069,High,Active,776,Two,4950,2,,General,
+2296,High,Active,826,Three,2000,1,,Charity,
+1180,Mid,Active,856,Two,5100,1,,General,
+2150,High,Active,895,One,3000,1,,Freelancer,
+1950,Mid,Active,965,Three,4000,2,,Telecoms,
+2404,Mid,Active,997,Three,4000,1,,Transport,
+2043,Mid,Active,1086,Three,4500,1,,Education,
+1293,Mid,Active,1087,Three,4150,2,,Education,
+16,Mid,Active,1095,Three,4500,5,,Financials,
+461,Mid,Active,1110,Three,4750,4,,Financials,
+2012,High,Active,1120,Two,5100,1,,Consumer Products,
+263,Mid,Active,1131,Three,4500,4,,Financials,
+1823,High,Active,1138,Three,5100,1,,Technology,
+2458,high,Active,1145,Two,5500,1,,General,
