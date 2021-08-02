@@ -1,6 +1,3 @@
-# Portfolio
-  
-
 # My Past Projects
 
 
